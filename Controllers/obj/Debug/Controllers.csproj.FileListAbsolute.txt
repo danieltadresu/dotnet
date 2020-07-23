@@ -1,0 +1,186 @@
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Controllers.dll.config
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Controllers.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Controllers.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\EntityFramework.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Models.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Models.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Models.dll.config
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\EntityFramework.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\obj\Debug\Controllers.csprojAssemblyReference.cache
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\obj\Debug\Controllers.csproj.CopyComplete
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\obj\Debug\Controllers.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\obj\Debug\Controllers.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Controllers.dll.config
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Controllers.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Controllers.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\EntityFramework.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Models.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Models.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Models.dll.config
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\EntityFramework.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\obj\Debug\Controllers.csprojAssemblyReference.cache
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\obj\Debug\Controllers.csproj.CopyComplete
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\obj\Debug\Controllers.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Controllers\obj\Debug\Controllers.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Controllers.dll.config
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Controllers.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Controllers.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\EntityFramework.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Models.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Models.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\Models.dll.config
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\EntityFramework.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\obj\Debug\Controllers.csprojAssemblyReference.cache
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\obj\Debug\Controllers.csproj.CopyComplete
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\obj\Debug\Controllers.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Controllers\obj\Debug\Controllers.pdb
+C:\RepoOnBreak\Controllers\bin\Debug\Controllers.dll.config
+C:\RepoOnBreak\Controllers\bin\Debug\Controllers.dll
+C:\RepoOnBreak\Controllers\bin\Debug\Controllers.pdb
+C:\RepoOnBreak\Controllers\bin\Debug\EntityFramework.dll
+C:\RepoOnBreak\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\RepoOnBreak\Controllers\bin\Debug\Models.dll
+C:\RepoOnBreak\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\RepoOnBreak\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\RepoOnBreak\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\RepoOnBreak\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\RepoOnBreak\Controllers\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\RepoOnBreak\Controllers\bin\Debug\Models.pdb
+C:\RepoOnBreak\Controllers\bin\Debug\Models.dll.config
+C:\RepoOnBreak\Controllers\bin\Debug\EntityFramework.xml
+C:\RepoOnBreak\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\RepoOnBreak\Controllers\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Controllers\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Controllers\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Controllers\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Controllers\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Controllers\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Controllers\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Controllers\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Controllers\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Controllers\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Controllers\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Controllers\obj\Debug\Controllers.csprojAssemblyReference.cache
+C:\RepoOnBreak\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\RepoOnBreak\Controllers\obj\Debug\Controllers.csproj.CopyComplete
+C:\RepoOnBreak\Controllers\obj\Debug\Controllers.dll
+C:\RepoOnBreak\Controllers\obj\Debug\Controllers.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\Controllers.dll.config
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\Controllers.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\Controllers.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\EntityFramework.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\Models.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\Models.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\Models.dll.config
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\EntityFramework.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\obj\Debug\Controllers.csprojAssemblyReference.cache
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\obj\Debug\Controllers.csproj.CopyComplete
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\obj\Debug\Controllers.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Controllers\obj\Debug\Controllers.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\Controllers.dll.config
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\Controllers.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\Controllers.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\EntityFramework.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\Models.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\Models.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\Models.dll.config
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\EntityFramework.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\obj\Debug\Controllers.csprojAssemblyReference.cache
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\obj\Debug\Controllers.csproj.CopyComplete
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\obj\Debug\Controllers.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Controllers\obj\Debug\Controllers.pdb

@@ -1,0 +1,135 @@
+﻿<Controls:MetroWindow x:Name="wpf_menu" x:Class="Views.MainWindow" 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Views"
+        mc:Ignorable="d"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:behaviours="clr-namespace:MahApps.Metro.Behaviours;assembly=MahApps.Metro"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+                
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+                      
+        Title="INICIO"  Height="600" Width="800"  WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize" Icon="Resources/images/white_logo_transparent_background.png" Closing="wpf_menu_Closing">
+    <Grid>
+
+        <Label Content="OnBreak Eventos" FontSize="25px" FontWeight="Bold" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Margin="38,22,0,0" VerticalAlignment="Top" Height="72" Width="201" FontFamily="Segoe UI Light"/>
+        <Label Content="Empresariales" FontSize="25px" FontWeight="Bold" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Margin="38,62,0,0" VerticalAlignment="Top" Height="45" Width="201" FontFamily="Segoe UI Light"/>
+        <Label Content="Acerca De"  FontWeight="SemiBold" FontFamily="Segoe UI Light" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Margin="360,94,0,0" VerticalAlignment="Top" Height="25" Width="73"/>
+        <Label Content="Modo Claro"  FontWeight="SemiBold" FontFamily="Segoe UI Light" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Margin="476,94,0,0" VerticalAlignment="Top" Height="25" Width="76"/>
+        <Label Content="Modo Oscuro" FontWeight="SemiBold" FontFamily="Segoe UI Light" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Margin="597,94,0,0" VerticalAlignment="Top" Height="25" Width="93"/>
+
+        <Controls:Tile x:Name="AcercaDe" Title="Acerca De" Style="{StaticResource AccentedSquareButtonStyle}"
+            Margin="360,22,332,475"
+            Height="Auto"
+            Width="Auto"
+            Background="#4A5568" Click="AcercaDe_Click" >
+            <!-- <Image x:Name="imgAutores" Source="Resources/login_300x250.png" Width="100" Height="100"/> -->
+            <iconPacks:PackIconMaterial Kind="Tools" 
+                Width="25" 
+                Height="25"
+                HorizontalAlignment="Center" 
+                VerticalAlignment="Center"/>
+
+        </Controls:Tile>
+        <Controls:Tile x:Name="tlModoLight" Title="Tema Light" Style="{StaticResource AccentedSquareButtonStyle}"
+                           Margin="476,22,216,475"
+                           Height="Auto"
+                           Width="Auto"
+                           Background="#4A5568" Click="tlModoLight_Click" >
+            <!-- <Image x:Name="imgAutores" Source="Resources/login_300x250.png" Width="100" Height="100"/> -->
+            <iconPacks:PackIconMaterial Kind="Sunglasses" 
+                                            Width="25" 
+                                            Height="25"
+                                            HorizontalAlignment="Center" 
+                                            VerticalAlignment="Center">
+            </iconPacks:PackIconMaterial>
+
+        </Controls:Tile>
+
+        <Controls:Tile x:Name="tlModoLightDark" Title="Tema Light Dark" Style="{StaticResource AccentedSquareButtonStyle}"  
+            Margin="597,22,89,475"
+            Height="Auto"
+            Width="Auto"
+            Background="#4A5568" Click="tlModoLightDark_Click">
+            <!-- <Image x:Name="imgAutores" Source="Resources/login_300x250.png" Width="100" Height="100"/> -->
+            <iconPacks:PackIconMaterial Kind="ThemeLightDark" 
+                Width="25" 
+                Height="25"
+                HorizontalAlignment="Center" 
+                VerticalAlignment="Center"/>
+        </Controls:Tile>
+
+
+        <WrapPanel x:Name="wpMenu" Margin="27,151,33,-91">
+            <Controls:Tile x:Name="tlAdministradorCliente" Title="Administración de Clientes" FontFamily="Segoe UI Light"
+                           Margin="5,5,5,5"
+                           Height="170"
+                           Width="500"
+                           Background="#2D3748" Click="tlAdministradorClientes_Click">
+                <!-- <Image x:Name="imgAutores" Source="Resources/login_300x250.png" Width="100" Height="100"/> -->
+                <iconPacks:PackIconMaterial Kind="Human" 
+                                            Width="100" 
+                                            Height="100"
+                                            HorizontalAlignment="Center" 
+                                            VerticalAlignment="Center">
+                </iconPacks:PackIconMaterial>
+
+            </Controls:Tile>
+
+            <Controls:Tile x:Name="tlListadoAutores" Title="Listado de Clientes" FontFamily="Segoe UI Light"
+                           Margin="5,5,5,5"
+                           Height="170"
+                           Width="200"
+                           Background="#4A5568" Click="tlListadoClientes_Click">
+                <iconPacks:PackIconMaterial Kind="FileAccountOutline" 
+                                            Width="100" 
+                                            Height="100"
+                                            HorizontalAlignment="Center" 
+                                            VerticalAlignment="Center">
+                </iconPacks:PackIconMaterial>
+
+            </Controls:Tile>
+
+            <Controls:Tile x:Name="tlAdministracionContratos" Title="Administración de Contratos" FontFamily="Segoe UI Light"
+                           Margin="5,5,5,5"
+                           Height="170"
+                           Width="500"
+                           Background="#2D3748" Click="tlAdministracionContratos_Click">
+                <iconPacks:PackIconMaterial Kind="FileDocument" 
+                                            Width="100" 
+                                            Height="100"
+                                            HorizontalAlignment="Center" 
+                                            VerticalAlignment="Center">
+                </iconPacks:PackIconMaterial>
+            </Controls:Tile>
+
+            <Controls:Tile x:Name="tlListadoContratos" Title="Listado de Contratos" FontFamily="Segoe UI Light"
+                           Margin="5,5,5,5"
+                           Height="170"
+                           Width="200"
+                           Background="#4A5568" Click="tlListadoContratos_Click">
+                <iconPacks:PackIconMaterial Kind="ClipboardFile" 
+                                            Width="100" 
+                                            Height="100"
+                                            HorizontalAlignment="Center" 
+                                            VerticalAlignment="Center">
+                </iconPacks:PackIconMaterial>
+            </Controls:Tile>
+        </WrapPanel>
+
+        <Controls:Flyout x:Name="flAcercaDe" Width="318" Position="Right" Foreground="White" Header="Acerca De">
+            <Controls:Flyout.Background>
+                <SolidColorBrush Color="#FF252424" Opacity="0.9"/>
+            </Controls:Flyout.Background>
+            <Canvas>
+                <Label Foreground="White" FontSize="16" HorizontalContentAlignment="Center" Content="Proyecto Desarrollador Para" Width="291" Canvas.Top="36"/>
+                <Label Foreground="White" FontSize="16" HorizontalContentAlignment="Center" Content="DSY009D" Width="291" Canvas.Top="67"/>
+                <Label Foreground="White" FontSize="16" HorizontalContentAlignment="Center" Content="PROFESOR" Width="291" Canvas.Top="140"/>
+                <Label Foreground="White" FontSize="16" HorizontalContentAlignment="Center" Content="CHRISTIAN SARMIENTO ZAMPILLO" Width="291" Canvas.Top="176"/>
+            </Canvas>
+        </Controls:Flyout>
+        
+    </Grid>
+</Controls:MetroWindow>

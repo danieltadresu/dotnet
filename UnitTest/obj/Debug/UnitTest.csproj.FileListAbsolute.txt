@@ -1,0 +1,114 @@
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\Controllers.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\Models.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\Views.exe
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\MahApps.Metro.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\ControlzEx.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\Controllers.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\Controllers.dll.config
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\Models.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\Models.dll.config
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\Views.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\Views.exe.config
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\MahApps.Metro.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\MahApps.Metro.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\ControlzEx.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\Controllers.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\Models.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\Views.exe
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\MahApps.Metro.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\ControlzEx.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\Controllers.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\Controllers.dll.config
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\Models.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\Models.dll.config
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\Views.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\Views.exe.config
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\MahApps.Metro.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\MahApps.Metro.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\bin\Debug\ControlzEx.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\Controllers.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\Models.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\Views.exe
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\MahApps.Metro.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\ControlzEx.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\Controllers.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\Controllers.dll.config
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\Models.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\Models.dll.config
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\Views.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\Views.exe.config
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\MahApps.Metro.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\MahApps.Metro.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\bin\Debug\ControlzEx.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\UnitTest\obj\Debug\UnitTest.pdb

@@ -1,0 +1,891 @@
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\Views.exe.config
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\Views.exe
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\Views.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\ControlzEx.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\ControlzEx.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.csprojAssemblyReference.cache
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\MainWindow.g.cs
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\App.g.cs
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views_MarkupCompile.cache
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views_MarkupCompile.lref
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\App.baml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\MainWindow.baml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.g.resources
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.Properties.Resources.resources
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.csproj.GenerateResource.cache
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.csproj.CoreCompileInputs.cache
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.csproj.CopyComplete
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.exe
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloClientes.g.cs
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloClientes.baml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\Controllers.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\EntityFramework.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\Models.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\Controllers.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\Controllers.dll.config
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\Models.pdb
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\Models.dll.config
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\EntityFramework.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloListadoClientes.g.cs
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloListadoClientes.baml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloContratos.g.cs
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloContratos.baml
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloListadoContratos.g.cs
+C:\Users\56930\Desktop\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloListadoContratos.baml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\Views.exe.config
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\Views.exe
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\Views.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\Controllers.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\ControlzEx.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\EntityFramework.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\Models.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\Controllers.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\Controllers.dll.config
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\Models.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\Models.dll.config
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\ControlzEx.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\EntityFramework.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.csprojAssemblyReference.cache
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\MainWindow.g.cs
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloClientes.g.cs
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloContratos.g.cs
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloListadoClientes.g.cs
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloListadoContratos.g.cs
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\App.g.cs
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views_MarkupCompile.cache
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views_MarkupCompile.lref
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\App.baml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\MainWindow.baml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloClientes.baml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloContratos.baml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloListadoClientes.baml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloListadoContratos.baml
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.g.resources
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.Properties.Resources.resources
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.csproj.GenerateResource.cache
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.csproj.CoreCompileInputs.cache
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.csproj.CopyComplete
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.exe
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MaterialDesignColors.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MaterialDesignColors.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\56930\Desktop\On_Break_Projects\On_Break\Proyecto_DEY3101\Views\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\Views.exe.config
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\Views.exe
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\Views.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\Controllers.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\ControlzEx.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\EntityFramework.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MaterialDesignColors.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\Models.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\Controllers.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\Controllers.dll.config
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\Models.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\Models.dll.config
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\ControlzEx.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\EntityFramework.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MaterialDesignColors.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.csprojAssemblyReference.cache
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\MainWindow.g.cs
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloClientes.g.cs
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloContratos.g.cs
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloListadoClientes.g.cs
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloListadoContratos.g.cs
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\App.g.cs
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views_MarkupCompile.cache
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views_MarkupCompile.lref
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\App.baml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\MainWindow.baml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloClientes.baml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloContratos.baml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloListadoClientes.baml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\ModuloListadoContratos.baml
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.g.resources
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.Properties.Resources.resources
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.csproj.GenerateResource.cache
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.csproj.CoreCompileInputs.cache
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.csproj.CopyComplete
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.exe
+C:\Users\56930\Desktop\d\On_Break\Proyecto_DEY3101\Views\obj\Debug\Views.pdb
+C:\RepoOnBreak\Views\bin\Debug\Views.exe.config
+C:\RepoOnBreak\Views\bin\Debug\Views.exe
+C:\RepoOnBreak\Views\bin\Debug\Views.pdb
+C:\RepoOnBreak\Views\bin\Debug\Controllers.dll
+C:\RepoOnBreak\Views\bin\Debug\ControlzEx.dll
+C:\RepoOnBreak\Views\bin\Debug\EntityFramework.dll
+C:\RepoOnBreak\Views\bin\Debug\EntityFramework.SqlServer.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\RepoOnBreak\Views\bin\Debug\MaterialDesignColors.dll
+C:\RepoOnBreak\Views\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\RepoOnBreak\Views\bin\Debug\Models.dll
+C:\RepoOnBreak\Views\bin\Debug\System.Windows.Interactivity.dll
+C:\RepoOnBreak\Views\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\RepoOnBreak\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\RepoOnBreak\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\RepoOnBreak\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\RepoOnBreak\Views\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\RepoOnBreak\Views\bin\Debug\Controllers.pdb
+C:\RepoOnBreak\Views\bin\Debug\Controllers.dll.config
+C:\RepoOnBreak\Views\bin\Debug\Models.pdb
+C:\RepoOnBreak\Views\bin\Debug\Models.dll.config
+C:\RepoOnBreak\Views\bin\Debug\ControlzEx.pdb
+C:\RepoOnBreak\Views\bin\Debug\EntityFramework.xml
+C:\RepoOnBreak\Views\bin\Debug\EntityFramework.SqlServer.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\RepoOnBreak\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\RepoOnBreak\Views\bin\Debug\MaterialDesignColors.pdb
+C:\RepoOnBreak\Views\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\RepoOnBreak\Views\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\RepoOnBreak\Views\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Views\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Views\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Views\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Views\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Views\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Views\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Views\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Views\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Views\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Views\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\RepoOnBreak\Views\obj\Debug\Views.csprojAssemblyReference.cache
+C:\RepoOnBreak\Views\obj\Debug\MainWindow.g.cs
+C:\RepoOnBreak\Views\obj\Debug\ModuloClientes.g.cs
+C:\RepoOnBreak\Views\obj\Debug\ModuloContratos.g.cs
+C:\RepoOnBreak\Views\obj\Debug\ModuloListadoClientes.g.cs
+C:\RepoOnBreak\Views\obj\Debug\ModuloListadoContratos.g.cs
+C:\RepoOnBreak\Views\obj\Debug\App.g.cs
+C:\RepoOnBreak\Views\obj\Debug\Views_MarkupCompile.cache
+C:\RepoOnBreak\Views\obj\Debug\Views_MarkupCompile.lref
+C:\RepoOnBreak\Views\obj\Debug\App.baml
+C:\RepoOnBreak\Views\obj\Debug\MainWindow.baml
+C:\RepoOnBreak\Views\obj\Debug\ModuloClientes.baml
+C:\RepoOnBreak\Views\obj\Debug\ModuloContratos.baml
+C:\RepoOnBreak\Views\obj\Debug\ModuloListadoClientes.baml
+C:\RepoOnBreak\Views\obj\Debug\ModuloListadoContratos.baml
+C:\RepoOnBreak\Views\obj\Debug\Views.g.resources
+C:\RepoOnBreak\Views\obj\Debug\Views.Properties.Resources.resources
+C:\RepoOnBreak\Views\obj\Debug\Views.csproj.GenerateResource.cache
+C:\RepoOnBreak\Views\obj\Debug\Views.csproj.CoreCompileInputs.cache
+C:\RepoOnBreak\Views\obj\Debug\Views.csproj.CopyComplete
+C:\RepoOnBreak\Views\obj\Debug\Views.exe
+C:\RepoOnBreak\Views\obj\Debug\Views.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\Views.exe.config
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\Views.exe
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\Views.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\Controllers.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\ControlzEx.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\EntityFramework.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MaterialDesignColors.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\Models.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\Controllers.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\Controllers.dll.config
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\Models.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\Models.dll.config
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\ControlzEx.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\EntityFramework.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MaterialDesignColors.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\Views.csprojAssemblyReference.cache
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\MainWindow.g.cs
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\ModuloClientes.g.cs
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\ModuloContratos.g.cs
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\ModuloListadoClientes.g.cs
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\ModuloListadoContratos.g.cs
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\App.g.cs
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\Views_MarkupCompile.cache
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\Views_MarkupCompile.lref
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\App.baml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\MainWindow.baml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\ModuloClientes.baml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\ModuloContratos.baml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\ModuloListadoClientes.baml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\ModuloListadoContratos.baml
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\Views.g.resources
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\Views.Properties.Resources.resources
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\Views.csproj.GenerateResource.cache
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\Views.csproj.CoreCompileInputs.cache
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\Views.csproj.CopyComplete
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\Views.exe
+C:\Users\56930\Desktop\Pruebas Unitarias Dani\Views\obj\Debug\Views.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\Views.exe.config
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\Views.exe
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\Views.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\Controllers.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\ControlzEx.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\EntityFramework.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MaterialDesignColors.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\Models.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\Controllers.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\Controllers.dll.config
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\Models.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\Models.dll.config
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\ControlzEx.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\EntityFramework.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MaterialDesignColors.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\Views.csprojAssemblyReference.cache
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\MainWindow.g.cs
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\ModuloClientes.g.cs
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\ModuloContratos.g.cs
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\ModuloListadoClientes.g.cs
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\ModuloListadoContratos.g.cs
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\App.g.cs
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\Views_MarkupCompile.cache
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\Views_MarkupCompile.lref
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\App.baml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\MainWindow.baml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\ModuloClientes.baml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\ModuloContratos.baml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\ModuloListadoClientes.baml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\ModuloListadoContratos.baml
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\Views.g.resources
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\Views.Properties.Resources.resources
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\Views.csproj.GenerateResource.cache
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\Views.csproj.CoreCompileInputs.cache
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\Views.csproj.CopyComplete
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\Views.exe
+C:\Users\56930\Desktop\Pruebas Unitarias Dai 11-17 14-07-2020\Views\obj\Debug\Views.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\Views.exe.config
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\Views.exe
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\Views.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\Controllers.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\ControlzEx.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\EntityFramework.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MaterialDesignColors.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\Models.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\Controllers.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\Controllers.dll.config
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\Models.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\Models.dll.config
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\ControlzEx.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\EntityFramework.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MaterialDesignColors.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\Views.csprojAssemblyReference.cache
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\MainWindow.g.cs
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\ModuloClientes.g.cs
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\ModuloContratos.g.cs
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\ModuloListadoClientes.g.cs
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\ModuloListadoContratos.g.cs
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\App.g.cs
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\Views_MarkupCompile.cache
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\Views_MarkupCompile.lref
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\App.baml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\MainWindow.baml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\ModuloClientes.baml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\ModuloContratos.baml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\ModuloListadoClientes.baml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\ModuloListadoContratos.baml
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\Views.g.resources
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\Views.Properties.Resources.resources
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\Views.csproj.GenerateResource.cache
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\Views.csproj.CoreCompileInputs.cache
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\Views.csproj.CopyComplete
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\Views.exe
+C:\Users\56930\Desktop\Proyecto DEY3101-009D\Final\Aplicacion OnBreak DEY3101\Views\obj\Debug\Views.pdb
